@@ -24,6 +24,8 @@ mongoose.connect(config.uri,(err)=>{
 app.use(cors({
     origin:'http://localhost:4200'
 }));
+
+//change 1
 // Middleware
 app.use(bodyParser.urlencoded({ extended: false })); // parse application/x-www-form-urlencoded
 app.use(bodyParser.json()); // parse application/json

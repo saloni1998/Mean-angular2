@@ -16,7 +16,7 @@
   "author": "Saloni Jain",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "bcrypt-nodejs": "0.0.3",
     "bcryptjs": "^2.3.0",
     "body-parser": "^1.18.3",
